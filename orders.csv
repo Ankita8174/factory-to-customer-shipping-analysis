@@ -1,0 +1,11 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Country/Region,Division,Product Name,Factory,Quantity,Sales
+1,ORD001,2026-01-01,2026-01-04,Standard,C001,USA,Chocolate,Wonka Bar,Lots O Nuts,10,250
+2,ORD002,2026-01-02,2026-01-05,Express,C002,USA,Gum,Bubble Gum,Sweet Factory,15,180
+3,ORD003,2026-01-03,2026-01-06,Standard,C003,Canada,Candy,Lollipop,Candy Works,20,300
+4,ORD004,2026-01-04,2026-01-07,Express,C004,Mexico,Chocolate,Dark Chocolate,Lots O Nuts,8,220
+5,ORD005,2026-01-05,2026-01-08,Standard,C005,USA,Cookies,Choco Cookies,Bakery Hub,12,260
+6,ORD006,2026-01-06,2026-01-09,Express,C006,Canada,Candy,Jelly Beans,Candy Works,18,270
+7,ORD007,2026-01-07,2026-01-10,Standard,C007,USA,Gum,Mint Gum,Sweet Factory,14,190
+8,ORD008,2026-01-08,2026-01-11,Express,C008,Mexico,Chocolate,Milk Chocolate,Lots O Nuts,16,340
+9,ORD009,2026-01-09,2026-01-12,Standard,C009,Canada,Cookies,Oat Cookies,Bakery Hub,9,150
+10,ORD010,2026-01-10,2026-01-13,Express,C010,USA,Candy,Toffee,Candy Works,22,400
