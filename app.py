@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 # Load dataset
-df = pd.read_csv("data/orders.csv")
+df = pd.read_csv("orders.csv")
 
 df.columns = df.columns.str.strip()
 
